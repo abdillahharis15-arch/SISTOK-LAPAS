@@ -1,0 +1,4 @@
+src/**/*.jsx
+src/**/*.js
+*.config.js
+README.md
